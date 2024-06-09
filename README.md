@@ -24,7 +24,7 @@ Feel free to read through the [Usage](#usage) section, follow along with the [wa
 ## Installation
 1. Clone the repo:
     ```sh
-    git clone https://github.com/sara-hines/e-commerce-retail-platform.git
+    [git clone https://github.com/Rthornburg-Ardi/EcommerceBacken]
     ```
 
 2. Navigate to the project directory:
